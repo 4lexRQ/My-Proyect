@@ -17,7 +17,7 @@ title: MY BLOG PERSONAL
 author: Alexander Joel Rivera Quiroz 
 email: alexnov330@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Estududiante de la carrera de Ing. en Software, este es mi blog personal dedicado a mi personalidad y que muestra más allá de mi apariencia, dando a conocer un poco mejor
+  Estudiante de la carrera de Ing. en Software, este es mi blog personal dedicado a mi personalidad y que muestra más allá de mi apariencia, dando a conocer un poco mejor
   mi personalidad.
 baseurl: "/Onassis" # the subpath of your site, e.g. /blog
 google_analytics: 'UA-131540516-1' # change this to your GA key
@@ -47,9 +47,7 @@ plugins:
 collections:
   articles:
     output: true
-  letters:
+  abaut me:
     output: true
-  speeches:
-    output: true
-  tutorials:
-    output: true
+
+ 
